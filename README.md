@@ -17,16 +17,6 @@ All resources are fully automated using reusable Terraform modules.
 
 ---
 
-##  Prerequisites
-
-Before running this project, ensure you have:
-
-* **Terraform v1.x+** installed
-* **AWS CLI configured** with valid IAM credentials
-* A stable internet connection
-
----
-
 ##  Deploy Instructions
 
 ### 1️ Initialize Terraform
